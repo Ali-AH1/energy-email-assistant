@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "absender": "anna.schmidt@mail.de",
+    "betreff": "Zählerstand",
+    "text": "Hallo, mein Zählerstand ist 12890. Kundennummer 123456. Gruß, Anna"
+  },
+  {
+    "id": 2,
+    "absender": "max.weber@mail.de",
+    "betreff": "Umzug",
+    "text": "Guten Tag, ich ziehe am 1.12. nach Hamburg. Was muss ich tun?"
+  },
+  {
+    "id": 3,
+    "absender": "lena.k@mail.de",
+    "betreff": "Abschlag zu hoch",
+    "text": "Mein Abschlag ist viel zu hoch, bitte senken Sie ihn auf 60 Euro."
+  }
+]
